@@ -1,23 +1,5 @@
 [
   {
-    "product_name": "Shampoo",
-    "product_type": "Cosmetic",
-    "packing": "Jar",
-    "batch": "BT9020",
-    "expiry_date": "2026-01-29",
-    "purchase_rate": 166.03,
-    "sale_rate": 210.14
-  },
-  {
-    "product_name": "Headphones",
-    "product_type": "Electronic",
-    "packing": "Packet",
-    "batch": "BT4619",
-    "expiry_date": "2025-10-23",
-    "purchase_rate": 108.6,
-    "sale_rate": 154.11
-  },
-  {
     "product_name": "Laptop",
     "product_type": "Food",
     "packing": "Box",
